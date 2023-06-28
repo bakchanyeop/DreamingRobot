@@ -15,7 +15,8 @@ https://www.youtube.com/@Dreamingrobot<br>
 # Model File
 <img src="quadrobot/Model/All Image of Modeling.png">
 ' 모델 파일은 상단 이미지와 같으며 수량은 아래와 같습니다.
-*** Shoulder, Shin with foot은 큐라의 Mirror 기능으로 반대편 발도 출력 합니다.**
+
+**Shoulder, Shin with foot은 큐라의 Mirror 기능으로 반대편 발도 출력 합니다.**
 
 |순번|제목|수량|
 |------|---|---|
