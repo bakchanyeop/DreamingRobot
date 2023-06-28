@@ -13,5 +13,4 @@ https://www.youtube.com/@Dreamingrobot<br>
 
 
 # Model File
-![Alt text](/path/to/img.jpg)
-https://github.com/bakchanyeop/DreamingRobot/blob/main/quadrobot/Model/All%20Image%20of%20Modeling.png?raw=true
+![Alt text](quadrobot/Model/All Image of Modeling.png)
