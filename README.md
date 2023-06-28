@@ -18,6 +18,15 @@ https://www.youtube.com/@Dreamingrobot<br>
 
 |순번|제목|수량|
 |------|---|---|
-|1|테스트2|테스트3|
-|2|테스트2|테스트3|
-|3|테스트2|테스트3|
+|1|Body link|4EA|
+|2|Bottom Battery Cover|1EA|
+|3|Bottom Cover|1EA|
+|4|Handle|1EA|
+|5|jetson nano(ver.2GB Dev) holder|1EA|
+|6|shoulder(right)|2EA|
+|7|shoulder(left)|2EA|
+|8|Shin with foot(right)|2EA|
+|9|Shin with foot(left)|2EA|
+|10|Sude Civer|2EA|
+|11|Switch Holder|1EA|
+|12|Top Body|1EA|
