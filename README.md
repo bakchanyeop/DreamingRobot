@@ -13,6 +13,5 @@ https://www.youtube.com/@Dreamingrobot<br>
 
 
 # Model File
-<img src="quadrobot/Model/All Image of Modeling.png)
-">
+<img src="quadrobot/Model/All Image of Modeling.png">
 ![Alt text](quadrobot/Model/All Image of Modeling.png)
