@@ -32,3 +32,20 @@ https://www.youtube.com/@Dreamingrobot<br>
 |10|Sude Civer|2EA|
 |11|Switch Holder|1EA|
 |12|Top Body|1EA|
+
+# 부속품
+
+|순번|제목|수량|
+|------|---|---|
+|1|M2x8 Bolt Nut Set|52 EA|
+|2|M2x6|48EA|
+|3|M3x10 Bolt nut set|8Set|
+|4|M3x10 Bolt|22EA|
+|5|U2D2 변환기|1EA|
+|6|젯슨나노2GB버전|2EA|
+|7|업데이트중|2EA|
+|8|Shin with foot(right)|2EA|
+|9|Shin with foot(left)|2EA|
+|10|Sude Civer|2EA|
+|11|Switch Holder|1EA|
+|12|Top Body|1EA|
