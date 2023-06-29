@@ -46,3 +46,4 @@ https://www.youtube.com/@Dreamingrobot<br>
 |7|XH-M609(리튬폴리머 방전 방지)|1EA|
 |8|Switch|1EA|
 |9|lithium Polymer 30C(11.1V)|1EA|
+|10|Joystick|1EA|
