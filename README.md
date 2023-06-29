@@ -5,8 +5,8 @@ https://www.youtube.com/@Dreamingrobot<br>
 ▲ 꿈꾸는 로봇 Youtube 주소
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QgG77MY_Uj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<img src="quadrobot/Walk img.gif">
+▲ 보행 영상
 
 안녕하세요! 꿈꾸는 로봇 꿈봇입니다.
 
