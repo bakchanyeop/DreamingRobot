@@ -42,10 +42,7 @@ https://www.youtube.com/@Dreamingrobot<br>
 |3|M3x10 Bolt nut set|8Set|
 |4|M3x10 Bolt|22EA|
 |5|U2D2 변환기|1EA|
-|6|젯슨나노2GB버전|2EA|
-|7|업데이트중|2EA|
-|8|Shin with foot(right)|2EA|
-|9|Shin with foot(left)|2EA|
-|10|Sude Civer|2EA|
-|11|Switch Holder|1EA|
-|12|Top Body|1EA|
+|6|젯슨나노2GB버전|1EA|
+|7|XH-M609(리튬폴리머 방전 방지)|1EA|
+|8|Switch|1EA|
+|9|lithium Polymer 30C(11.1V)|1EA|
