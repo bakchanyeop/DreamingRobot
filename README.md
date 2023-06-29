@@ -11,7 +11,7 @@ https://www.youtube.com/@Dreamingrobot<br>
 본 깃허브는 제가 제작하는 과정의 코드와 STL 파일들을 올릴 예정입니다.
 
 현재 4족 로봇을 로보티즈 다이나믹셀 AX12로 제작중입니다.
-
+{% include video id="QgG77MY_Uj0" provider="youtube" %}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QgG77MY_Uj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
