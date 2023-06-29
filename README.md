@@ -13,8 +13,7 @@ https://www.youtube.com/@Dreamingrobot<br>
 현재 4족 로봇을 로보티즈 다이나믹셀 AX12로 제작중입니다.
 
 
-<embed width="800px" height="600px" src="https://www.youtube.com/watch?v=7apxJXUjtz4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></embed>
-Version.1 Robot dog 영상입니다.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QgG77MY_Uj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 # Model File
