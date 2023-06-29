@@ -12,7 +12,8 @@ https://www.youtube.com/@Dreamingrobot<br>
 
 현재 4족 로봇을 로보티즈 다이나믹셀 AX12로 제작중입니다.
 
-![동작 영상](https://www.youtube.com/watch?v=7apxJXUjtz4)
+
+<video width="800px" height="600px" src="https://www.youtube.com/watch?v=7apxJXUjtz4" controls></video>
 Version.1 Robot dog 영상입니다.
 
 
