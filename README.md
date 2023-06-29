@@ -5,8 +5,6 @@ https://www.youtube.com/@Dreamingrobot<br>
 ▲ 꿈꾸는 로봇 Youtube 주소
 
 
-<img src="quadrobot/Walk img.gif">
-▲ 보행 영상
 
 안녕하세요! 꿈꾸는 로봇 꿈봇입니다.
 
@@ -14,6 +12,9 @@ https://www.youtube.com/@Dreamingrobot<br>
 
 현재 4족 로봇을 로보티즈 다이나믹셀 AX12로 제작중입니다.
 
+
+<img src="quadrobot/Walk img.gif">
+▲ 보행 영상
 
 
 # Model File
