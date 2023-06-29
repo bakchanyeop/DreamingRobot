@@ -14,7 +14,7 @@ https://www.youtube.com/@Dreamingrobot<br>
 
 
 <img src="quadrobot/Walk img.gif">
-▲ 보행 영상
+▲ 보행 영상(이전 영상이라 지금 모델하고는 조금 차이가 있습니다)
 
 
 # Model File
