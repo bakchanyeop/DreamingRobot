@@ -37,6 +37,7 @@ https://www.youtube.com/@Dreamingrobot<br>
 |10|Sude Civer|2EA|
 |11|Switch Holder|1EA|
 |12|Top Body|1EA|
+|13|shoulder_inside|1EA|
 
 # 부속품
 
