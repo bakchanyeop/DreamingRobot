@@ -13,7 +13,7 @@ https://www.youtube.com/@Dreamingrobot<br>
 현재 4족 로봇을 로보티즈 다이나믹셀 AX12로 제작중입니다.
 
 
-<img src="quadrobot/Randering_GBOT.png">
+<img src="https://github.com/bakchanyeop/DreamingRobot/blob/main/Randering_GBOT.png?raw=true">
 
 <img src="quadrobot/Walk img.gif">
 ▲ 보행 영상(이전 영상이라 지금 모델하고는 조금 차이가 있습니다)
