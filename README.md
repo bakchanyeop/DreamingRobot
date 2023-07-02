@@ -62,5 +62,6 @@ https://www.youtube.com/@Dreamingrobot<br>
 |10|Joystick|1EA|
 
 
-#조립 내용
+# 조립 내용
+
 <img src=https://github.com/bakchanyeop/DreamingRobot/blob/main/Assemble.jpg?raw=true">
