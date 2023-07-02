@@ -60,3 +60,7 @@ https://www.youtube.com/@Dreamingrobot<br>
 |8|Switch|1EA|
 |9|lithium Polymer 30C(11.1V)|1EA|
 |10|Joystick|1EA|
+
+
+#조립 내용
+<img src=https://github.com/bakchanyeop/DreamingRobot/blob/main/Assemble.jpg?raw=true">
